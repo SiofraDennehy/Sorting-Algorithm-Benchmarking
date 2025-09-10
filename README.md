@@ -28,7 +28,7 @@ It generates random arrays, sorts them using different algorithms, and records t
 ## How to Use:
 1. Clone this repository
 2. Compile the programme with "javac SortingAlgorithms.java"
-3. Run the programme with "java SortingAlgorithms"
+3. Run the programme with "java SortingAlgorithms.java"
 
 ## Notes:
 - The program runs warm-up benchmarks before actual timing to ensure the JVM has optimized execution paths.<br/>
