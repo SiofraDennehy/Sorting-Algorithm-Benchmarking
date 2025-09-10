@@ -37,3 +37,7 @@ It generates random arrays, sorts them using different algorithms, and records t
 
 ## Example Output:
 
+
+<img width="462" height="553" alt="Example_Benchmark" src="https://github.com/user-attachments/assets/fcf2b7c9-ec30-42a1-81b4-b88222a7ad36" />
+<img width="477" height="282" alt="Example_Insertion" src="https://github.com/user-attachments/assets/a74e4cd2-e681-4d37-857a-3928352d86b2" />
+<img width="475" height="571" alt="Example_merge" src="https://github.com/user-attachments/assets/7cc9afc3-496d-4682-82fc-1ef33edb7bc7" />
